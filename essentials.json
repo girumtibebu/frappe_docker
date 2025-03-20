@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://github.com/your-org/frappe-app1",
+    "branch": "develop"
+  },
+  {
+    "url": "https://github.com/your-org/frappe-app2",
+    "branch": "main"
+  }
+]
